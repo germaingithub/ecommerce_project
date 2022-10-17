@@ -6,7 +6,7 @@ const Home = () => {
       HeroBanner
 
       <div>
-        <h2> Beset Selling Products</h2>
+        <h2> Beset Selerwrling Products</h2>
         <p> Speakers of many variations</p>
       </div>
 
